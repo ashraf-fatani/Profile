@@ -11,5 +11,5 @@ A simple website created to introduce myself.
 -CSS
 -JavaScript
 
-##Purpose
+## Purpose
 I created this website as the first project to practice web development and share my skills.
