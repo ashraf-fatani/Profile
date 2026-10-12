@@ -14,5 +14,5 @@ A simple website created to introduce myself.
 ## Purpose
 I created this website as the first project to practice web development and share my skills.
 
-## Visit Teh Website
+## Visit The Website
 You can visit and see the project through this link: https://ashraf-fatani.github.io/Profile/
